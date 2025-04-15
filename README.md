@@ -63,4 +63,4 @@ java -jar target/todo-app-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ## Data Storage
 
-The application saves data by default in a `tasks.json` file in the current directory. You can also use custom file paths through the import/export functionality. 
+The application saves data by default in a `tasks.json` file in the current directory. You can also use custom file paths through the import/export functionality.
